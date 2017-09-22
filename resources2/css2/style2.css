@@ -4,5 +4,43 @@ body {
 }
 
 .header {
-  background-image: url(the-flatiron-building.png);
+  background-image: url(the-flatiron-building2.png);
+  color: white;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+}
+
+ul {
+  font-size: 18px;
+  list-style-type: none;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+}
+
+.NY {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url(the-flatiron-building2.png)
+}
+
+p.footer {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
 }
